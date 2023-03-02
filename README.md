@@ -1,1 +1,1 @@
-# Google-Data-Analyst-Case-Study
+# Google-Data-Analyst-Capstone
